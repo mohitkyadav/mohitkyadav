@@ -4,7 +4,6 @@
     width="20"
   />
 ](https://www.reddit.com/user/draemonn)
-
 [![alt text][2.1]][2]
 
 [2.1]: http://i.imgur.com/0o48UoR.png (github)
