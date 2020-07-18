@@ -2,7 +2,7 @@
 
 [
   <img
-    src="https://image.flaticon.com/icons/svg/1384/1384014.svg"
+    src="https://image.flaticon.com/icons/svg/2111/2111499.svg"
     width="30"
     title="linkedin"
     alt="linkedin"
@@ -11,12 +11,21 @@
 &nbsp;&nbsp;
 [
   <img
-    src="https://image.flaticon.com/icons/svg/2111/2111464.svg"
+    src="https://image.flaticon.com/icons/svg/2111/2111255.svg"
     width="30"
     title="angelist"
     alt="angelist"
   />
 ](https://angel.co/u/mohitkyadav)
+&nbsp;&nbsp;
+[
+  <img
+    src="https://img.icons8.com/color/2x/stackoverflow.png"
+    width="30"
+    title="stackoverflow"
+    alt="stackoverflow"
+  />
+](https://stackoverflow.com/users/7986026/only4)
 &nbsp;&nbsp;
 [
   <img
@@ -29,7 +38,7 @@
 &nbsp;&nbsp;
 [
   <img
-    src="https://image.flaticon.com/icons/svg/95/95612.svg"
+    src="https://image.flaticon.com/icons/svg/732/732223.svg"
     width="30"
     title="mail"
     alt="mail"
@@ -38,7 +47,7 @@
 &nbsp;&nbsp;
 [
   <img
-    src="https://image.flaticon.com/icons/svg/1384/1384019.svg"
+    src="https://image.flaticon.com/icons/svg/355/355990.svg"
     width="30"
     title="reddit"
     alt="reddit"
@@ -47,7 +56,7 @@
 &nbsp;&nbsp;
 [
   <img
-    src="https://image.flaticon.com/icons/svg/2111/2111685.svg"
+    src="https://image.flaticon.com/icons/svg/2111/2111627.svg"
     width="30"
     title="spotify"
     alt="spotify"
