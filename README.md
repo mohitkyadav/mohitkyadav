@@ -13,3 +13,6 @@
     width="30"
   />
 ](http://www.github.com/mohitkyadav)
+
+### Discord server
+[![Discord](https://img.shields.io/discord/522610943037931551.svg?style=for-the-badge&label=&logo=discord&logoColor=fff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bJGQRJx)
