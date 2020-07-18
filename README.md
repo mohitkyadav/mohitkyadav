@@ -2,12 +2,21 @@
 
 [
   <img
-    src="https://image.flaticon.com/icons/svg/1384/1384019.svg"
+    src="https://image.flaticon.com/icons/svg/1384/1384014.svg"
     width="30"
-    title="reddit"
-    alt="reddit"
+    title="linkedin"
+    alt="linkedin"
   />
-](https://www.reddit.com/user/draemonn)
+](https://www.linkedin.com/in/mohitkyadav/)
+&nbsp;&nbsp;
+[
+  <img
+    src="https://image.flaticon.com/icons/svg/2111/2111464.svg"
+    width="30"
+    title="angelist"
+    alt="angelist"
+  />
+](https://angel.co/u/mohitkyadav)
 &nbsp;&nbsp;
 [
   <img
@@ -26,6 +35,15 @@
     alt="mail"
   />
 ](mailto:mohitkyadav@outlook.com)
+&nbsp;&nbsp;
+[
+  <img
+    src="https://image.flaticon.com/icons/svg/1384/1384019.svg"
+    width="30"
+    title="reddit"
+    alt="reddit"
+  />
+](https://www.reddit.com/user/draemonn)
 &nbsp;&nbsp;
 [
   <img
