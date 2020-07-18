@@ -1,7 +1,3 @@
-
-<img src="https://image.flaticon.com/icons/svg/1384/1384019.svg" href="https://www.reddit.com/user/draemonn" width="20" height="20">
-
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
