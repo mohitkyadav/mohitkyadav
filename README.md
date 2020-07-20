@@ -73,5 +73,4 @@
 ](https://open.spotify.com/user/mukulkyadav?si=QbWtxCJWS96BaBUp2Ow9Bw)
 
 ### Discord server
-[![Discord](https://img.shields.io/discord/522610943037931551.svg?style=for-the-badge&label=&logo=discord&logoColor=fff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bJGQRJx)
-![Discord](https://img.shields.io/discord/522610943037931551?color=7389D8&logo=discord&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/522610943037931551?color=7389D8&logo=discord&style=for-the-badge)](https://discord.gg/bJGQRJx)
