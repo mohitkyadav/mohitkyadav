@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
 [
   <img
-    src="https://image.flaticon.com/icons/svg/2111/2111499.svg"
+    src="https://image.flaticon.com/icons/svg/1409/1409945.svg"
     width="25"
     title="linkedin"
     alt="linkedin"
