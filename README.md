@@ -2,8 +2,17 @@
 
 [
   <img
+    src="https://image.flaticon.com/icons/svg/2111/2111502.svg"
+    width="25"
+    title="medium"
+    alt="medium"
+  />
+](https://medium.com/@only4)
+&nbsp;&nbsp;
+[
+  <img
     src="https://image.flaticon.com/icons/svg/2111/2111499.svg"
-    width="30"
+    width="25"
     title="linkedin"
     alt="linkedin"
   />
@@ -12,7 +21,7 @@
 [
   <img
     src="https://image.flaticon.com/icons/svg/2111/2111255.svg"
-    width="30"
+    width="25"
     title="angelist"
     alt="angelist"
   />
@@ -21,7 +30,7 @@
 [
   <img
     src="https://img.icons8.com/color/2x/stackoverflow.png"
-    width="30"
+    width="25"
     title="stackoverflow"
     alt="stackoverflow"
   />
@@ -30,7 +39,7 @@
 [
   <img
     src="https://image.flaticon.com/icons/svg/919/919847.svg"
-    width="30"
+    width="25"
     title="github"
     alt="github"
   />
@@ -39,7 +48,7 @@
 [
   <img
     src="https://image.flaticon.com/icons/svg/732/732223.svg"
-    width="30"
+    width="25"
     title="mail"
     alt="mail"
   />
@@ -48,7 +57,7 @@
 [
   <img
     src="https://image.flaticon.com/icons/svg/355/355990.svg"
-    width="30"
+    width="25"
     title="reddit"
     alt="reddit"
   />
@@ -57,7 +66,7 @@
 [
   <img
     src="https://image.flaticon.com/icons/svg/2111/2111627.svg"
-    width="30"
+    width="25"
     title="spotify"
     alt="spotify"
   />
