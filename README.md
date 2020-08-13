@@ -2,6 +2,15 @@
 
 [
   <img
+    src="https://image.flaticon.com/icons/svg/1/1198.svg"
+    width="25"
+    title="website"
+    alt="website"
+  />
+](https://only4.dev)
+&nbsp;&nbsp;
+[
+  <img
     src="https://image.flaticon.com/icons/svg/2111/2111502.svg"
     width="25"
     title="medium"
@@ -52,7 +61,7 @@
     title="mail"
     alt="mail"
   />
-](mailto:mohitkyadav@outlook.com)
+](mailto:me@only4.dev)
 &nbsp;&nbsp;
 [
   <img
