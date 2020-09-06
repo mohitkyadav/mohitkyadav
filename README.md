@@ -18,6 +18,16 @@
   />
 ](https://medium.com/@only4)
 &nbsp;&nbsp;
+
+[
+  <img
+    src="https://image.flaticon.com/icons/svg/2111/2111502.svg"
+    width="25"
+    title="medium"
+    alt="medium"
+  />
+](https://dev.to/mohitkyadav)
+&nbsp;&nbsp;
 [
   <img
     src="https://image.flaticon.com/icons/svg/1409/1409945.svg"
