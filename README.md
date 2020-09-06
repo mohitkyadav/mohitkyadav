@@ -18,13 +18,12 @@
   />
 ](https://medium.com/@only4)
 &nbsp;&nbsp;
-
 [
   <img
-    src="https://image.flaticon.com/icons/svg/2111/2111502.svg"
+    src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
     width="25"
-    title="medium"
-    alt="medium"
+    title="dev.to"
+    alt="dev.to"
   />
 ](https://dev.to/mohitkyadav)
 &nbsp;&nbsp;
