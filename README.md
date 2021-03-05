@@ -72,23 +72,6 @@
   />
 ](mailto:me@only4.dev)
 &nbsp;&nbsp;
-[
-  <img
-    src="https://image.flaticon.com/icons/svg/355/355990.svg"
-    width="25"
-    title="reddit"
-    alt="reddit"
-  />
-](https://www.reddit.com/user/draemonn)
-&nbsp;&nbsp;
-[
-  <img
-    src="https://image.flaticon.com/icons/svg/2111/2111627.svg"
-    width="25"
-    title="spotify"
-    alt="spotify"
-  />
-](https://open.spotify.com/user/mukulkyadav?si=QbWtxCJWS96BaBUp2Ow9Bw)
 
 ### Discord server
 [![Discord](https://img.shields.io/discord/522610943037931551?color=7389D8&logo=discord&style=for-the-badge)](https://discord.gg/bJGQRJx)
