@@ -1,8 +1,8 @@
-🔍 find me here 👇
+Hi there tourist 👋
 
 [
-  <img
-    src="https://image.flaticon.com/icons/svg/1/1198.svg"
+<img
+    src="./icns/global.svg"
     width="25"
     title="website"
     alt="website"
@@ -10,17 +10,17 @@
 ](https://only4.dev)
 &nbsp;&nbsp;
 [
-  <img
-    src="https://image.flaticon.com/icons/svg/2111/2111502.svg"
+<img
+    src="./icns/dribbble-ball-icon.svg"
     width="25"
-    title="medium"
-    alt="medium"
+    title="dribble"
+    alt="dribble"
   />
-](https://medium.com/@only4)
+](https://dribbble.com/draemonn)
 &nbsp;&nbsp;
 [
-  <img
-    src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
+<img
+    src="./icns/deto.svg"
     width="25"
     title="dev.to"
     alt="dev.to"
@@ -28,7 +28,7 @@
 ](https://dev.to/mohitkyadav)
 &nbsp;&nbsp;
 [
-  <img
+<img
     src="https://image.flaticon.com/icons/svg/1409/1409945.svg"
     width="25"
     title="linkedin"
@@ -37,7 +37,7 @@
 ](https://www.linkedin.com/in/mohitkyadav/)
 &nbsp;&nbsp;
 [
-  <img
+<img
     src="https://image.flaticon.com/icons/svg/2111/2111255.svg"
     width="25"
     title="angelist"
@@ -46,7 +46,7 @@
 ](https://angel.co/u/mohitkyadav)
 &nbsp;&nbsp;
 [
-  <img
+<img
     src="https://img.icons8.com/color/2x/stackoverflow.png"
     width="25"
     title="stackoverflow"
@@ -55,7 +55,7 @@
 ](https://stackoverflow.com/users/7986026/only4)
 &nbsp;&nbsp;
 [
-  <img
+<img
     src="https://image.flaticon.com/icons/svg/919/919847.svg"
     width="25"
     title="github"
@@ -64,7 +64,7 @@
 ](http://www.github.com/mohitkyadav)
 &nbsp;&nbsp;
 [
-  <img
+<img
     src="https://image.flaticon.com/icons/svg/732/732223.svg"
     width="25"
     title="mail"
@@ -74,4 +74,5 @@
 &nbsp;&nbsp;
 
 ### Discord server
+
 [![Discord](https://img.shields.io/discord/522610943037931551?color=7389D8&logo=discord&style=for-the-badge)](https://discord.gg/bJGQRJx)
