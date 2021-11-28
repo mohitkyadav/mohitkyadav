@@ -27,50 +27,13 @@ Hi there tourist 👋
   />
 ](https://dev.to/mohitkyadav)
 &nbsp;&nbsp;
-[
-<img
-    src="https://image.flaticon.com/icons/svg/1409/1409945.svg"
-    width="25"
-    title="linkedin"
-    alt="linkedin"
-  />
-](https://www.linkedin.com/in/mohitkyadav/)
+[linkedin](https://www.linkedin.com/in/mohitkyadav/)
 &nbsp;&nbsp;
-[
-<img
-    src="https://image.flaticon.com/icons/svg/2111/2111255.svg"
-    width="25"
-    title="angelist"
-    alt="angelist"
-  />
-](https://angel.co/u/mohitkyadav)
+[stackoverflow](https://stackoverflow.com/users/7986026/only4)
 &nbsp;&nbsp;
-[
-<img
-    src="https://img.icons8.com/color/2x/stackoverflow.png"
-    width="25"
-    title="stackoverflow"
-    alt="stackoverflow"
-  />
-](https://stackoverflow.com/users/7986026/only4)
+[github](http://www.github.com/mohitkyadav)
 &nbsp;&nbsp;
-[
-<img
-    src="https://image.flaticon.com/icons/svg/919/919847.svg"
-    width="25"
-    title="github"
-    alt="github"
-  />
-](http://www.github.com/mohitkyadav)
-&nbsp;&nbsp;
-[
-<img
-    src="https://image.flaticon.com/icons/svg/732/732223.svg"
-    width="25"
-    title="mail"
-    alt="mail"
-  />
-](mailto:me@only4.dev)
+[mail](mailto:me@only4.dev)
 &nbsp;&nbsp;
 
 ### Discord server
