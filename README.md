@@ -1,4 +1,4 @@
-नमस्ते 👋
+Namaste / नमस्ते 👋
 
 [dribble](https://dribbble.com/draemonn)
 &nbsp;&nbsp;
